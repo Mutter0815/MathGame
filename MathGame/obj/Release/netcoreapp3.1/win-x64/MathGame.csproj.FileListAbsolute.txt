@@ -1,0 +1,13 @@
+C:\Users\Старый Друг\source\repos\MathGame\MathGame\bin\Release\netcoreapp3.1\win-x64\MathGame.exe
+C:\Users\Старый Друг\source\repos\MathGame\MathGame\bin\Release\netcoreapp3.1\win-x64\MathGame.deps.json
+C:\Users\Старый Друг\source\repos\MathGame\MathGame\bin\Release\netcoreapp3.1\win-x64\MathGame.runtimeconfig.json
+C:\Users\Старый Друг\source\repos\MathGame\MathGame\bin\Release\netcoreapp3.1\win-x64\MathGame.runtimeconfig.dev.json
+C:\Users\Старый Друг\source\repos\MathGame\MathGame\bin\Release\netcoreapp3.1\win-x64\MathGame.dll
+C:\Users\Старый Друг\source\repos\MathGame\MathGame\bin\Release\netcoreapp3.1\win-x64\MathGame.pdb
+C:\Users\Старый Друг\source\repos\MathGame\MathGame\obj\Release\netcoreapp3.1\win-x64\MathGame.csprojAssemblyReference.cache
+C:\Users\Старый Друг\source\repos\MathGame\MathGame\obj\Release\netcoreapp3.1\win-x64\MathGame.AssemblyInfoInputs.cache
+C:\Users\Старый Друг\source\repos\MathGame\MathGame\obj\Release\netcoreapp3.1\win-x64\MathGame.AssemblyInfo.cs
+C:\Users\Старый Друг\source\repos\MathGame\MathGame\obj\Release\netcoreapp3.1\win-x64\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\Старый Друг\source\repos\MathGame\MathGame\obj\Release\netcoreapp3.1\win-x64\MathGame.dll
+C:\Users\Старый Друг\source\repos\MathGame\MathGame\obj\Release\netcoreapp3.1\win-x64\MathGame.pdb
+C:\Users\Старый Друг\source\repos\MathGame\MathGame\obj\Release\netcoreapp3.1\win-x64\MathGame.genruntimeconfig.cache

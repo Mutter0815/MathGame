@@ -1,0 +1,2 @@
+C:\Users\Старый Друг\source\repos\MathGame\MathGame\bin\Release\netcoreapp3.1\publish\MathGame.pdb
+C:\Users\Старый Друг\source\repos\MathGame\MathGame\bin\Release\netcoreapp3.1\publish\MathGame.exe
